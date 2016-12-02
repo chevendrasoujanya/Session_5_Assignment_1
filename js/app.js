@@ -1,0 +1,2 @@
+var name = "Soujanya", age = "50", dateofbirth = "14-April-2016", placeofbirth = "Hyderabad";
+console.log("\n Name: " + name +"\n Age: " + age + "\n Date of Birth: " + dateofbirth + "\n Place of Birth: " +placeofbirth);
